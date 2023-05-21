@@ -1,5 +1,5 @@
 # Front-End-Projects
-These are all front-end-related projects I've designed so far. These include HTML, CSS, and JavaScript.
+These are all front-end-related projects I've designed so far. These include HTML, CSS, and JavaScript, as well as libraries like ReactJs, Bootstrap, jQuery and SASS.
 
 # Survey Form
 My first website consisted in a Survey Form in which I put to practise HTML tags related to user input implementation and data processing.
