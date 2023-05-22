@@ -1,5 +1,5 @@
 Hello there!
-My name's Marc and I amb a Web Developer responsible for the front-end part. I started to know about web delevopment when I first worked in website localization. Since then, I've been continously learning and working on my new projects, which include libraries like React, SASS, jQuery, and Bootstrap. Below you will find the projects I've done so far.
+My name's Marc and I am a Web Developer responsible for the front-end part. I started to know about web delevopment when I first worked in website localization. Since then, I've been continously learning and working on my new projects, which include libraries like React, SASS, jQuery, and Bootstrap. Below you will find the projects I've done so far.
 
 # Job Application Form
 In my first website, I learned about HTML forms and how they work to gather data from the users. I also learned about POST and GET methods, Local Storage and Web Storage, and HTML5 contstraint validation, as well as plenty of CSS concepts and properties like the box model. Thus, I designed a job application in which users are expected to attach their resume and fill the required fields.
