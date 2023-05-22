@@ -1,8 +1,8 @@
-# Front-End-Projects
-These are all front-end-related projects I've designed so far. These include HTML, CSS, and JavaScript, as well as libraries like ReactJs, Bootstrap, jQuery and SASS.
+Hello there!
+My name's Marc and I amb a Web Developer responsible for the front-end part. I started to know about web delevopment when I first worked in website localization. Since then, I've been continously learning and working on my new projects, which include libraries like React, SASS, jQuery, and Bootstrap. Below you will find the projects I've done so far.
 
-# Survey Form
-My first website consisted in a Survey Form in which I put to practise HTML tags related to user input implementation and data processing.
+# Job Application Form
+In my first website, I learned about HTML forms and how they work to gather data from the users. I also learned about POST and GET methods, Local Storage and Web Storage, and HTML5 contstraint validation, as well as plenty of CSS concepts and properties like the box model. Thus, I designed a job application in which users are expected to attach their resume and fill the required fields.
 
 # Tribute Page
 Moving on to CSS advanced features, I designed a responsive tribute page from scratch to James Cameron and his work on the wonderful, thriving world of Pandora.
