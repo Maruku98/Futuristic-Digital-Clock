@@ -1,25 +1,25 @@
-let userTextInputs = document.querySelectorAll(".text");
-
-userTextInputs.forEach((input) => {
-    input.addEventListener("focusout", () => {
-        input.value = input.value.toUpperCase();
-    });
-});
-
-let userInputs = document.querySelectorAll(".block-input");
-
-userInputs.forEach((input) => {
-    input.addEventListener("invalid", () => {
-        input.style.border = "3px solid red";
-    });
-    input.addEventListener("focusout", () => {
-        input.style.border = "2px solid black";
+$(document).ready(function(){
+    
+    $(".text").focusout( function() {
+        $(this).val($(this).val().toUpperCase());
     })
-});
+
+    $(".block-input")
+    .on("invalid", function() {
+        $(this).css("border", "3px solid red")
+    })
+    .focusout( function() {
+        $(this).css("border", "2px solid black")
+    });
+
+  });
+
 
 let passwordField = document.getElementById("password");
 let passwordRepeat = document.getElementById("password2");
 
+
+passwordRepeat.addEventListener("focusout", passwordRepeatVerify);
 passwordField.addEventListener("focusout", passwordVerify);
 
 function passwordVerify() {
@@ -40,8 +40,6 @@ function passwordVerify() {
         passwordField.style.borderWidth = "2px";
     }
 }
-
-passwordRepeat.addEventListener("focusout", passwordRepeatVerify);
 
 function passwordRepeatVerify() {
     if (passwordRepeat.value == passwordField.value) {
