@@ -12,15 +12,12 @@ $(document).ready(function(){
         $(this).css("border", "2px solid black")
     });
 
-  });
-
 
 let passwordField = document.getElementById("password");
 let passwordRepeat = document.getElementById("password2");
 
-
-passwordRepeat.addEventListener("focusout", passwordRepeatVerify);
-passwordField.addEventListener("focusout", passwordVerify);
+$("#password").focusout(passwordVerify);
+$("#password2").focusout(passwordRepeatVerify);
 
 function passwordVerify() {
     let userInputPassword = passwordField.value;
@@ -49,3 +46,4 @@ function passwordRepeatVerify() {
         passwordRepeat.style.border = "2px solid red";
     }
 }
+  });
