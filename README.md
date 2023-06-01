@@ -1,5 +1,5 @@
 Hello there!
-My name's Marc and I am a front-end Web Developer. I had my first contact with web delevopment when I started working by chance in website localization. Since then, I decided to delve further into that field so I started by studying programming with JavaScript. A fer months later, I began to work on my own projects, which include libraries like **React**, **SASS**, **jQuery**, and **Bootstrap**. Below you will find the projects in which I've worked so far.
+My name's Marc and, as front-end Web Developer, I had my first contact with web delevopment when I started working by chance in website localization. Since then, I decided to delve further into that field so I started by studying programming with JavaScript. A fer months later, I began to work on my own projects, which include libraries like **React**, **SASS**, **jQuery**, and **Bootstrap**. Below you will find the projects in which I've worked so far.
 
 # 1. Job Application Form
 In my first website, I learned about **HTML forms** and how they work to gather data from the users. I also learned about POST and GET methods, Local Storage and Web Storage, and HTML5 contstraint validation, as well as plenty of **CSS** concepts and properties like the box model. Thus, I designed a job application in which users are expected to attach their resume and fill the required fields.
@@ -12,3 +12,11 @@ A futuristic, very simple clock I designed using a function that recursively cal
 
 # 4. Roman Numerals Converter
 We all learned about Roman Numerals back at school and, since being that old, they have still survived the passing of time! Using JavaScript, I developed a complex algorithm that converts any decimal number below 3,999 to Roman Numerals. There's even a click-to-copy button!
+
+# 5. Tic Tac Toe Game
+A simple game I developed with ReactJs. It was such very enriching experience because it allowed me to learn a lot of programming logic, as well as overcoming common issues with asynchronous code. This application was build with:
+* Visual Studio Code IDE
+* NodeJS
+* ReactJs
+* JSX
+* JavaScript ES6
