@@ -12,11 +12,3 @@ A futuristic, very simple clock I designed using a function that recursively cal
 
 # 4. Roman Numerals Converter
 We all learned about Roman Numerals back at school and, since being that old, they have still survived the passing of time! Using JavaScript, I developed a complex algorithm that converts any decimal number below 3,999 to Roman Numerals. There's even a click-to-copy button!
-
-# 5. Tic Tac Toe Game
-A simple game I developed with ReactJs. It was such very enriching experience because it allowed me to learn a lot of programming logic, as well as overcoming common issues with asynchronous code. This application was build with:
-* Visual Studio Code IDE
-* NodeJS
-* ReactJs
-* JSX
-* JavaScript ES6
