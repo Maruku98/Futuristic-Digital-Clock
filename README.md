@@ -1,6 +1,3 @@
-Hello there!
-My name's Marc and, as front-end Web Developer, I had my first contact with web delevopment when I started working by chance in website localization. Since then, I decided to delve further into that field so I started by studying programming with JavaScript. A fer months later, I began to work on my own projects, which include libraries like **React**, **SASS**, **jQuery**, and **Bootstrap**. Below you will find the projects in which I've worked so far.
-
 # 1. Job Application Form
 In my first website, I learned about **HTML forms** and how they work to gather data from the users. I also learned about POST and GET methods, Local Storage and Web Storage, and HTML5 contstraint validation, as well as plenty of **CSS** concepts and properties like the box model. Thus, I designed a job application in which users are expected to attach their resume and fill the required fields.
 
