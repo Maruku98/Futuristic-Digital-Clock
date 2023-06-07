@@ -11,9 +11,10 @@ A futuristic-themed digital clock that shows the current time using JavaScript D
 - JavaScript ES6
 
 ## Date Object
-The clock is basically a function that, upon call, retrieves the current date.  
+The clock is basically a function that retrieves the current date after being called.  
 Then hours, minutes, and seconds are stored in three different values and later displayed on the screen.
 Besides, CSS styles change after clicking the button for the first time.
 
 ## Recursive function
 Since date values do not update after being called, but instead remain the same until the Date Object is called again, the function uses recursion to call itself in the end after a 1-second delay.
+This project was an excellent opportunity to know more about recursive calls! 🥳
