@@ -9,6 +9,3 @@ Moving on to more advanced CSS features, I designed a responsive tribute page to
 
 # 3. Clock
 A futuristic, very simple clock I designed using a function that recursively calls JavaScript Date Constructor.
-
-# 4. Roman Numerals Converter
-We all learned about Roman Numerals back at school and, since being that old, they have still survived the passing of time! Using JavaScript, I developed a complex algorithm that converts any decimal number below 3,999 to Roman Numerals. There's even a click-to-copy button!
