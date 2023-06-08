@@ -1,5 +1,5 @@
 # Futuristic Digital Clock 🕐
-A futuristic, quite simple clock I designed using a function that recursively calls JavaScript Date Object.  
+A futuristic clock I designed using a function that recursively calls JavaScript Date Object.  
 <img src="https://github.com/Maruku98/Futuristic-Digital-Clock/assets/133391272/c656ab3d-c03f-4894-896d-fc5513617b8c" width="700"><br></br>
 
 ## Overview
